@@ -1,5 +1,5 @@
-# big-data_data-analytics
+# Big Data / Data Analytics Project
 
-Proyecto realizado como parte del curso Big Data / Data Analytics del programa Codo a Codo 4.0. Se utilizaron diferentes herramientas tales como Google Sheets, SQL, LookerStudio y Phyton
+This project was part of the Big Data / Data Analytics course in the Codo a Codo 4.0 program. Various tools were used, including Google Sheets, SQL, Looker Studio, and Python.
 
-Se utilizó una base de datos que incluye películas de Netflix y ganadoras de los premios Óscar. Se realizaron consultas en SQL para extraer información relevante (Consigna 1 y 2), se llevó a cabo un análisis de datos utilizando Google Sheets, y se creó un dashboard interactivo en Looker Studio (Consigna 3). Finalmente, se realizó un análisis exploratorio de datos en Python (Consigna 4)
+The project utilized a dataset containing Netflix movies and Oscar-winning films. SQL queries were written to extract relevant information, followed by data analysis performed in Google Sheets. An interactive dashboard was created using Looker Studio to visualize key insights, and a thorough exploratory data analysis (EDA) was conducted in Python to uncover trends and patterns within the dataset.
